@@ -18,7 +18,7 @@
 - Looking for help with data structures and algorithms.
 - ***How to reach me***: Mail me @ vaibhavandhare7@gmail.com **or** Dm me @ [Linkedin](https://www.linkedin.com/in/vaibhavandhare)           
 
-- If you are interested in hiring, Ask me for Resume.
+- Ask me for Resume.
 
 
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaandhare&show_icons=true&hide=[%22stars%22])
