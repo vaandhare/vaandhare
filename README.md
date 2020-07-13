@@ -16,8 +16,7 @@
 - Exploring Flutter & kotlin.
 - Team Guy, Smart India Hackathon '19 Winner, Smart India Hackathon '20 Finalist.
 - Looking for help with data structures and algorithms.
-- ***How to reach me***: Mail me @ vaibhavandhare7@gmail.com
-                         Dm me @ [Linkedin](https://www.linkedin.com/in/vaibhavandhare)           
+- ***How to reach me***: Mail me @ vaibhavandhare7@gmail.com **or** Dm me @ [Linkedin](https://www.linkedin.com/in/vaibhavandhare)           
 
 - If you are interested in hiring, Ask me for Resume.
 
