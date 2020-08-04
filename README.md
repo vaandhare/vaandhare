@@ -14,8 +14,9 @@
 - Intern at [BirdVision Consulting Pvt. Ltd.](https://birdvisiontech.com/)
 - Currently working on my internship product, Gym Application and SIH20 project.
 - Exploring Flutter & kotlin.
-- Team Guy, Smart India Hackathon '19 Winner, Smart India Hackathon '20 Finalist.
-- Looking for help with data structures and algorithms.
+- Smart India Hackathon '20 Winner (Prize: ₹1,00,000) : AK15/Knowledge Management System through Blockchain. Given by Airport Authority of India.
+- Smart India Hackathon '19 Winner (Prize: ₹75,000): NK2/Marathi Language support in smartphone pluggable library. Given by NCORD HealthCard Pvt. Ltd. 
+- Looking for help with data structures & algorithms and UI/UX.
 - ***How to reach me***: Mail me @ vaibhavandhare7@gmail.com **or** Dm me @ [Linkedin](https://www.linkedin.com/in/vaibhavandhare)           
 
 - Ask me for Resume.
