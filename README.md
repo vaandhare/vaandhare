@@ -3,7 +3,7 @@
 </a><a href="https://www.linkedin.com/in/vaibhavandhare">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>![](https://visitor-badge.glitch.me/badge?page_id=vaandhare.MyGithub)  
-</a>[Portfolio](https://vaibhavandhare.com)
+</a> ![](https://vaibhavandhare.com)
 <br/>
 
 
