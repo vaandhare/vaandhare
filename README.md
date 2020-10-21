@@ -11,7 +11,7 @@
 
 **Some highlights about me:**
 
-- Interned at [BirdVision Consulting Pvt. Ltd.](https://birdvisiontech.com/)
+- Interned at [BirdVision Consulting Pvt. Ltd.](https://birdvisiontech.com/) and CodexLabs.
 - Currently working on flutter project (e-Commerce Application).
 - Exploring Flutter & React.
 - Smart India Hackathon '20 Winner (Prize: ₹1,00,000) : AK15/Knowledge Management System through Blockchain. Given by Airport Authority of India.
