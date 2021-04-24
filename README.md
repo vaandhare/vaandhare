@@ -9,11 +9,10 @@
 
 **Some highlights about me:**
 
-- Interned at [BirdVision Consulting Pvt. Ltd.](https://birdvisiontech.com/) and CodexLabs.
-- Currently working on e-Commerce Flutter Application.
+- Software Engineer at [e-Zest Solutions Ltd.](https://www.e-zest.com/)
+- Interned at [BirdVision Consulting Pvt. Ltd.](https://birdvisiontech.com/) and [CodixLabs.](https://www.codixlabs.com/)
 - Exploring MERN stack.
 - Smart India Hackathon '20 Winner (Prize: ₹1,00,000) : AK15/Knowledge Management System through Blockchain. Given by Airport Authority of India.
-- Smart India Hackathon '19 Winner (Prize: ₹75,000): NK2/Marathi Language support in smartphone pluggable library. Given by NCORD HealthCard Pvt. Ltd. 
-- Looking for help with UI/UX.       
+- Smart India Hackathon '19 Winner (Prize: ₹75,000): NK2/Marathi Language support in smartphone pluggable library. Given by NCORD HealthCard Pvt. Ltd.   
 
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaandhare&show_icons=true&hide=[%22stars%22])
