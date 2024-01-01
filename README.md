@@ -6,12 +6,9 @@
 </a> ![](https://vaibhavandhare.com)
 <br/>
 
-
-**Some highlights about me:**
-
-- Software Engineer at [e-Zest Solutions Ltd.](https://www.e-zest.com/)
-- Interned at [BirdVision Consulting Pvt. Ltd.](https://birdvisiontech.com/) and [CodixLabs.](https://www.codixlabs.com/)
-- Exploring MERN stack.
+- Consultant at Deloitte.
+- Previous - e-Zest Solutions & Searce Inc.
+- React Native Developer.
 - Smart India Hackathon '20 Winner (Prize: ₹1,00,000) : AK15/Knowledge Management System through Blockchain. Given by Airport Authority of India.
 - Smart India Hackathon '19 Winner (Prize: ₹75,000): NK2/Marathi Language support in smartphone pluggable library. Given by NCORD HealthCard Pvt. Ltd.   
 
